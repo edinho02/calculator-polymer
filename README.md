@@ -15,3 +15,5 @@ A simple project of a calculator, developed using the [Polymer](https://polymer-
 - `yarn dev` or `npm run dev`
 
 # Project preview
+
+**In progress...**

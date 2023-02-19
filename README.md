@@ -1,6 +1,6 @@
 # Description
 
-A simple project of a calculator, developed using the Polymer library.
+A simple project of a calculator, developed using the [Polymer](https://polymer-library.polymer-project.org/) library.
 
 # How to run
 

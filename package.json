@@ -6,7 +6,8 @@
   "main": "index.html",
   "author": "Edson Machado Andreassa",
   "scripts": {
-    "dev": "polymer serve --port 8081 --open"
+    "dev": "polymer serve --port 8081 --open",
+    "build": "polymer build"
   },
   "dependencies": {
     "@polymer/iron-icon": "^3.0.0-pre.12",

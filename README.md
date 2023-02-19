@@ -1,32 +1,17 @@
-# Build your first Polymer element
+# Description
 
-This repo goes with the [Build your first Polymer element tutorial](https://www.polymer-project.org/3.0/start/first-element/intro).
+A simple project of a calculator, developed using the Polymer library.
 
-## Running the tutorial code
+# How to run
 
-1.  Install pre-requisites for Polymer CLI (git, npm, Node.js). 
+1. Clone this repository on environment
 
-    [Full instructions are on the Polymer website.](https://www.polymer-project.org/3.0/docs/tools/polymer-cli).
+2. Install required dependencies using:
 
-2.  Install Polymer CLI:
+`yarn` or `npm install`
 
-        npm install -g polymer-cli@next
+3. Start project runnig with:
 
-    [Full instructions are on the Polymer website.](https://www.polymer-project.org/3.0/docs/tools/polymer-cli).
+`yarn dev` or `npm run dev`
 
-3.  Clone this repo: 
-
-        git clone https://github.com/PolymerLabs/polymer-3-first-element.git
-
-4.  Change directory to the top-level project folder and install project dependencies:
-
-        cd polymer-3-first-element
-        npm install
-        
-5.  To preview your element, run the Polymer development server from the top-level project folder:
-
-        polymer serve --open
-
-## Next steps
-
-Follow the [Build your first Polymer element tutorial](https://www.polymer-project.org/3.0/start/first-element/intro) to get started with Polymer.
+# Project preview

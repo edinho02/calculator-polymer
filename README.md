@@ -8,10 +8,10 @@ A simple project of a calculator, developed using the Polymer library.
 
 2. Install required dependencies using:
 
-`yarn` or `npm install`
+- `yarn` or `npm install`
 
 3. Start project runnig with:
 
-`yarn dev` or `npm run dev`
+- `yarn dev` or `npm run dev`
 
 # Project preview
